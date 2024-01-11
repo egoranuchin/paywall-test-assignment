@@ -2,10 +2,7 @@
 
 # Remote config localization
 
-<aside>
-⚠️ This feature is available with subscription plans [starting with Pro](https://adapty.io/pricing/).
-
-</aside>
+> ⚠️ This feature is available with subscription plans [starting with Pro](https://adapty.io/pricing/).
 
 To scale your app globally, you can localize your no-code paywall with the Remote config localization feature.
 
